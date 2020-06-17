@@ -1,0 +1,2 @@
+rootProject.name='Notes (MVVM Architecture)'
+include ':app'
