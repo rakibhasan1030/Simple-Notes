@@ -132,6 +132,17 @@ public class MainActivity extends AppCompatActivity {
                 noteViewModel.deleteAllNotes();
                 Toast.makeText(this, "All notes deleted!", Toast.LENGTH_SHORT).show();
                 return true;
+
+            case R.id.settings:
+                startActivity(new Intent(this, SettingActivity.class));
+               // Toast.makeText(this, "Settings", Toast.LENGTH_SHORT).show();
+                return true;
+
+            case R.id.about:
+                startActivity(new Intent(this, AboutActivity.class));
+                //Toast.makeText(this, "About", Toast.LENGTH_SHORT).show();
+                return true;
+
             default:
                 return super.onOptionsItemSelected(item);
         }
