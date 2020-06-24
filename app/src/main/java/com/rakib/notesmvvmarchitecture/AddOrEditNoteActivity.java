@@ -30,7 +30,7 @@ public class AddOrEditNoteActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_add_note);
+        setContentView(R.layout.activity_add_or_edit_note);
 
         editTextTitle = findViewById(R.id.titleEt);
         editTextDescription = findViewById(R.id.descriptionEt);
