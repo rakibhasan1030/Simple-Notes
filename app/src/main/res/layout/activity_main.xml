@@ -5,6 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
@@ -17,8 +19,10 @@
         android:id="@+id/add_note_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/add_icon"
         android:layout_gravity="bottom|end"
-        android:layout_margin="32dp"/>
+        android:layout_margin="32dp"
+        android:src="@drawable/add_icon"
+        app:tint="@android:color/white"
+        app:backgroundTint="@color/add_btn" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

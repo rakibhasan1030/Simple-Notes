@@ -1,16 +1,18 @@
 <resources>
-    <string name="app_name">Notes (MVVM Architecture)</string>
+    <string name="app_name">Notes</string>
     <string name="notes_title">Title</string>
     <string name="notes_description">Description</string>
     <string name="notes_priority">Priority</string>
+    <string name="empty_message">No notes available!</string>
 
 
     //menu strings
     <string name="delete_all_notes">Delete All Notes</string>
-    <string name="settings">Settings</string>
-    <string name="about">About</string>
 
-    //settings
-    <string name="dark_mode">Dark Mode</string>
+    //dialog strings
+    <string name="warning">Are you sure to delete all the notes?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
 
 </resources>

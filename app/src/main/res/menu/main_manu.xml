@@ -4,18 +4,7 @@
 
     <item
         android:id="@+id/deleteAllNotes"
+        android:icon="@drawable/delete_icon"
         android:title="@string/delete_all_notes"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/settings"
-        android:title="@string/settings"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/about"
-        android:title="@string/about"
-        app:showAsAction="never" />
-
-
+        app:showAsAction="always" />
 </menu>
