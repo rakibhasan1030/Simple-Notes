@@ -15,18 +15,12 @@ This simple note will give you a quick smooth editing and writing experience whi
 
 
 # SCREENSHOTS
+<img src="images/home_ss.png" width=280>
 
-# HOME
-<img src="images/home_ss.png" width=300>
+<img src="images/add_note.png" width=280>
 
-# ADD NOTES
-<img src="images/add_note.png" width=300>
+<img src="images/swipe_to _delete_left.png" width=280>
 
-# SWIPE LEFT TO DELETE
-<img src="images/swipe_to _delete_left.png" width=300>
+<img src="images/swipe_to _delete_right.png" width=280>
 
-# SWIPE RIGHT TO DELETE
-<img src="images/swipe_to _delete_right.png" width=300>
-
-# DELETE ALL NOTE
-<img src="images/delete_all_notes.png" width=300>
+<img src="images/delete_all_notes.png" width=280>
