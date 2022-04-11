@@ -27,7 +27,7 @@
 
 ## Authors
 
-- [@RakibHasan](https://www.github.com/rakibhasan1030)
+- [Rakib Hasan](https://www.github.com/rakibhasan1030)
 
 
 ## Avaiable on
